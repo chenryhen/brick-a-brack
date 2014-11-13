@@ -1,0 +1,20 @@
+{
+    "title": "Brick-a-Brack",
+    "name": "brick-a-brack",
+    "description": "Brick-a-Brack Theme for Brackets.",
+    "version": "0.0.1",
+    "author": "chenryhen (https://github.com/chenryhen)",
+    "homepage": "https://github.com/chenryhen/brick-a-brack",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:chenryhen/brick-a-brack.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
