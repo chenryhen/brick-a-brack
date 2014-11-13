@@ -1,31 +1,31 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
-span.cm-link		{ color: #fa4f68; }
-span.cm-number		{ color: #fa4f68; }
-span.cm-string		{ color: #fa4f68; }
+span.cm-link        { color: #fa4f68; }
+span.cm-number		  { color: #33ccee; }
+span.cm-string		  { color: #fa4f68; }
 
-span.cm-atom		{ color: #cdcdcd; }
-span.cm-meta		{ color: #cdcdcd; }
+span.cm-atom		    { color: #cdcdcd; }
+span.cm-meta		    { color: #cdcdcd; }
 
-span.cm-bracket		{ color: #ffffff; }
+span.cm-bracket		  { color: #ffffff; }
 span.cm-builtin     { color: #ffffff; }
-span.cm-def			{ color: #ffffff; }
-span.cm-operator	{ color: #ffffff; }
-span.cm-tag			{ color: #ffffff; }
+span.cm-def			    { color: #ffffff; }
+span.cm-operator	  { color: #ffffff; }
+span.cm-tag			    { color: #ffffff; }
 
-span.cm-attribute	{ color: #c2deff; }
-span.cm-variable	{ color: #c2deff; }
+span.cm-attribute	  { color: #c2deff; }
+span.cm-variable	  { color: #c2deff; }
 
-span.cm-comment		{ color: #717171; }
-span.cm-error		{ color: #f5ff00; }
-span.cm-keyword		{ color: #ededed; }
-span.cm-property	{ color: #98a6b5; }
+span.cm-comment		  { color: #888888; font-style: italic; }
+span.cm-error       { color: #f5ff00; }
+span.cm-keyword		  { color: #ededed; }
+span.cm-property	  { color: #98a6b5; }
 span.cm-variable-2	{ color: #52afd3; }
 
 span.cm-string-2    { color: #ff893f; }
 span.cm-variable-3	{ color: #ff893f; }
 span.cm-header      { color: #ff893f; }
-span.cm-qualifier	{ color: #ffffff; }
+span.cm-qualifier	  { color: #ffffff; font-weight: 500; }
 
 
 /* MISC ---------------------------------------------------------------------- */
